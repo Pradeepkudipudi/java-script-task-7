@@ -16,17 +16,17 @@ user = "red" ;
 // // user = "green" ;
 // // user = "CEO";
 
-// if (user == "red") {
-//   console.log("stop")}
-//  else if (user == "yellow") {
-//   console.log("get ready to move");
-// } else if (user == "green") {
-//   console.log("let's go");
-// } 
+if (user == "red") {
+  console.log("stop")}
+ else if (user == "yellow") {
+  console.log("get ready to move");
+} else if (user == "green") {
+  console.log("let's go");
+} 
 
-// else  {
-//   console.log("invalid output");
-// }
+else  {
+  console.log("invalid output");
+}
 
 
 
@@ -42,8 +42,8 @@ user = "red" ;
 
 
 // var user = "0";
-// user = "15";
- user = "225";
+user = "15";
+//  user = "225";
 
 if (user == "0") {
   console.log("It's freezing cold.")
@@ -55,6 +55,7 @@ else if (user == "15") {
 } else {
   console.log("Unknown weather.")
 }
+
 
 // 3.: Day of the Week
 
@@ -94,3 +95,6 @@ if ( user == "1"){
     console.log("Today is Sunday.") }
     else {
       console.log("Invalid Day number")}
+
+
+
